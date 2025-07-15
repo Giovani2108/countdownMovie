@@ -1,5 +1,5 @@
 # 🎬 Next MCU Movie
-This is a simple PHP project that fetches and displays information about the next upcoming Marvel Cinematic Universe (MCU) film using real-time data from the https://whenisthenextmcufilm.com public API.
+This is a simple PHP project that fetches and displays information about the next upcoming Marvel Cinematic Universe (MCU) film using real-time data from the https://whenisthenextmcufilm.com/api public API.
 
 ## 📌 Features
 Shows the title of the next MCU movie
