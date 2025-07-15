@@ -22,7 +22,7 @@ Shows the title of the next MCU movie
 4. Open your browser and go to: http://localhost:8000
 
 ## 📸 Preview
-<img width="898" height="937" alt="image" src="https://github.com/user-attachments/assets/83e53220-4a72-432f-9b1a-4ad0cff62a92" />
+<img width="449" height="463" alt="image" src="https://github.com/user-attachments/assets/83e53220-4a72-432f-9b1a-4ad0cff62a92" />
 
 ## 📚 Educational Use
 This project is great for learning how to:
